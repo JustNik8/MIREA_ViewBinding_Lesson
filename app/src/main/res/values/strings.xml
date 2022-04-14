@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MIREA_ViewBinding_Lesson</string>
+
+    <string name="hint">Напишите что-нибудь</string>
+    <string name="show_text">Показать текст</string>
+    <string name="text_to_show">Текст будет показан здесь</string>
+    <string name="open_activity">Открыть активити</string>
 </resources>
