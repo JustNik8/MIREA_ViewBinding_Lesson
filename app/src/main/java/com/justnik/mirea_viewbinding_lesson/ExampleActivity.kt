@@ -5,11 +5,13 @@ import android.os.Bundle
 import by.kirich1409.viewbindingdelegate.viewBinding
 import com.justnik.mirea_viewbinding_lesson.databinding.ActivityExampleBinding
 
-class ExampleActivity : AppCompatActivity() {
+class ExampleActivity : AppCompatActivity(R.layout.activity_example) {
+
+    private val binding: ActivityExampleBinding by viewBinding()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_example)
+
         launchExampleFragment()
     }
 
