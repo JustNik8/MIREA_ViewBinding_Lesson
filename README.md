@@ -13,3 +13,4 @@
 * [Видео](https://www.youtube.com/watch?v=z0F2QTAKsWU)
 * [Статья на medium](https://medium.com/androiddevelopers/use-view-binding-to-replace-findviewbyid-c83942471fc)
 * [ViewBindingPropertyDelegate](https://github.com/androidbroadcast/ViewBindingPropertyDelegate)
+* [Android: View Binding vs Data Binding](https://medium.com/@joshuaudayagiri/android-view-binding-vs-data-binding-f56df1885bce)
